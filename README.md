@@ -1,2 +1,2 @@
 # IphoneCalc
-JavaScript kodlarını ChatGpt yazdı
+JavaScript kodları ChatGPT tarafından yazılmıştır
